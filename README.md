@@ -1,3 +1,5 @@
 hello.  
-i make buttons do cool things with swift  
+i make software
+im experimenting with llms and transformers
+
 
