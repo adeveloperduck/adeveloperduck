@@ -1,5 +1,5 @@
 hello.  
-i make software
+i make software.
 im experimenting with llms and transformers
 
 
